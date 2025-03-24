@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1677709172 source:c:\users\ceitelabinfo\desktop\lista\lista.c
+	"lista.h"
+
+1677709172 c:\users\ceitelabinfo\desktop\lista\lista.h
+	<stdbool.h>
+
+1677624575 source:c:\users\ceitelabinfo\desktop\lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1740523394 source:c:\users\ceitelabinfo\desktop\listas\lista.c
+	"lista.h"
+
+1740523406 c:\users\ceitelabinfo\desktop\listas\lista.h
+	<stdbool.h>
+

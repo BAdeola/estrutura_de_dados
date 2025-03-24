@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1740496742 source:c:\users\ceitelabinfo\desktop\pilhas\main.c
+	<stdio.h>
+	"pilhas.h"
+
+1740496812 c:\users\ceitelabinfo\desktop\pilhas\pilhas.h
+	<stdbool.h>
+
+1740617093 source:c:\users\ceitelabinfo\downloads\pilhas\pilhas.c
+	"pilhas.h"
+	<stdio.h>
+
+1740614732 c:\users\ceitelabinfo\downloads\pilhas\pilhas.h
+	<stdbool.h>
+
+1740616987 source:c:\users\ceitelabinfo\downloads\pilhas\main.c
+	<stdio.h>
+	"pilhas.h"
+
+1741634576 source:c:\users\braya\onedrive\Área de trabalho\estruturadedadosemc\unisantos aula\aula 3 - edd\pilhas\pilhas.c
+	"pilhas.h"
+	<stdio.h>
+
+1741457489 c:\users\braya\onedrive\Área de trabalho\estruturadedadosemc\unisantos aula\aula 3 - edd\pilhas\pilhas.h
+	<stdbool.h>
+
+1741634521 source:c:\users\braya\onedrive\Área de trabalho\estruturadedadosemc\unisantos aula\aula 3 - edd\pilhas\main.c
+	<stdio.h>
+	"pilhas.h"
+
