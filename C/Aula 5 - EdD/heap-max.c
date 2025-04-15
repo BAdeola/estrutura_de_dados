@@ -2,6 +2,8 @@
 #include <stdbool.h>
 #include <time.h>
 
+#define TAM_MAX 6
+
 void make_heap_max(int a[], int n) {
     int e = n / 2, i, j, x, d = n - 1;
     while (e > 0) {
@@ -55,3 +57,23 @@ int rem_heap_max(int a[], int *n) {
     return maior;
 }
 
+int main(){
+
+    int dados[TAM_MAX], i;
+
+    srand(408);
+
+    for(i = 0; i < TAM_MAX; i++){
+        dados[i] = 1+(rand()%60);
+    }
+
+    mostra_vetor(dados, TAM_MAX);
+    make_heap_max(dados, TAM_MAX);
+    mostra_vetor(dados, TAM_MAX);
+    ins_heap_max(dados, TAM_MAX, 40);
+    mostra_vetor(dados, TAM_MAX);
+    rem_heap_max(dados, TAM_MAX);
+    mostra_vetor(dados, TAM_MAX);
+    
+    return 0;
+}
