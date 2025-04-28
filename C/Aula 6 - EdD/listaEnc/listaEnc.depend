@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1744936720 source:c:\users\braya\desktop\estrutura-de-dados\estrutura_de_dados\c\aula 6 - edd\listaenc\main.c
+	<stdio.h>
+	"lista_enc.h"
+
+1744937263 c:\users\braya\desktop\estrutura-de-dados\estrutura_de_dados\c\aula 6 - edd\listaenc\lista_enc.h
+	<stdbool.h>
+	<stdlib.h>
+
