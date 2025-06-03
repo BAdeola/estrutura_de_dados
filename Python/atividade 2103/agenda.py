@@ -28,7 +28,6 @@ def exibir():
 
 if __name__ == "__main__":
     v=0
-
     while v!=4:
         try:
             print("Digite '1' para inserir os valores na agenda")
